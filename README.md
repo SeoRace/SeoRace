@@ -3,7 +3,6 @@
 - 디자이너이지만 다른 전공도 하면서 깃허브를 쓰고 있습니다
 - I am a GwangjuSoftwareMeisterhighschool student.
 
-![SeoRace's GitHub Stats](https://vercel.app)
 <!--
 **SeoRace/SeoRace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
